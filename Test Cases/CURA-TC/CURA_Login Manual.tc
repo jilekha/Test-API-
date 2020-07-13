@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>CURA Login Manual</description>
+   <name>CURA_Login Manual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ece87c18-8a60-4342-a179-9353d65449ab</testCaseGuid>
+</TestCaseEntity>
